@@ -11,7 +11,7 @@ export default async function HomePage() {
         "use server"
         await signOut({ redirectTo: "/login" })
       }}>
-        <button type="submit">Sair</button>
+        <button type="submit">Sairrr</button>
       </form>
     </div>
   )
