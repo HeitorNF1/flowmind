@@ -1,5 +1,5 @@
 const { app } = require('@azure/functions');
-
+// teste
 app.http('agent', {
     methods: ['POST'],
     authLevel: 'anonymous',
